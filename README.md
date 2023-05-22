@@ -49,6 +49,6 @@ We would like to express our gratitude to RGMCET and BITS INDIA for organizing t
 
 ## Contact
 
-For any inquiries or feedback, please contact mailto:varunreddy.billuri@gmail.com or malito:skg.13.edu@gmail.com.
+For any inquiries or feedback, please contact mailto:varunreddy.billuri@gmail.com or mailto:skg.13.edu@gmail.com.
 
 Enjoy using Slot-Finder!
