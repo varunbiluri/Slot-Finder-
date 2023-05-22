@@ -70,6 +70,8 @@ To run the Slot-Finder project, ensure that you have the following dependencies 
 
 ## Demo
 
+https://github.com/varunbiluri/Slot-Finder-/assets/84211999/7c08726e-5c06-4977-ab74-1a31b228217a
+
 ## Contributing
 
   Contributions to the Slot-Finder project are welcome! Here are some ways you can contribute:
