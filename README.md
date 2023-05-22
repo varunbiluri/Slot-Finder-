@@ -41,6 +41,7 @@ The Slot-Finder project is aimed at automating the process of monitoring and man
 1. Run the Flask application: `python main.py`
 2. Access the dashboard by opening `http://localhost:5000` in your web browser
 3. Follow the on-screen instructions to customize the parking slot layout using the slot finder tool
+## Demo
 
 ## Contributing
 
