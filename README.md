@@ -4,7 +4,16 @@ This project was developed during a hackathon at RGMCET by BYTS INDIA within a 2
 
 ## Project Description
 
-The Slot-Finder project is aimed at automating the process of monitoring and managing parking spaces. It utilizes computer vision techniques to detect the occupancy status of parking slots and provides real-time information about available and used slots. The project includes a user-friendly dashboard for monitoring and an interactive tool for customizing the parking slot layout.
+The Slot-Finder project is aimed at automating the process of monitoring and managing parking spaces. It utilizes computer vision techniques to detect the occupancy status of parking slots and provides real-time information about available and used slots. The project includes a user-friendly dashboard for monitoring and an interactive tool for customizing the parking slot layout. The project aims to provide the following functionality:
+
+### Slot Detector
+The slot detector component utilizes computer vision techniques to identify available parking slots in a given video feed. It processes the video frames, applies image processing algorithms, and detects the occupancy status of parking slots. It provides accurate and real-time information on available and occupied slots.
+
+### Slot Finder
+The slot finder component offers a user-friendly interface for defining and managing parking slots. It allows users to mark parking slots in a given image or video frame manually. Users can add new slots, remove existing slots, and update slot positions as needed. The slot finder facilitates the customization and adaptation of the system to different parking lot layouts.
+
+### Web-based Dashboard
+The web-based dashboard provides a convenient and interactive way to visualize the parking slot status. It displays real-time information on available slots, used slots, and total slots. Users can access the dashboard through a web browser and monitor the parking situation remotely. The dashboard also includes login and registration functionality for user authentication and access control.
 
 ## Features
 
@@ -31,16 +40,34 @@ The Slot-Finder project is aimed at automating the process of monitoring and man
 6. Viswa Teja Reddy M
 7. Kiran Kumar Reddy
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/varunbiluri/Slot-Finder-.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-
 ## Usage
 
 1. Run the Flask application: `python main.py`
 2. Access the dashboard by opening `http://localhost:5000` in your web browser
 3. Follow the on-screen instructions to customize the parking slot layout using the slot finder tool
+4. Run the main.py file to start the Flask server.
+5. Access the web-based dashboard by visiting `http://localhost:5000` in your web browser.
+6. Follow the instructions provided in the dashboard to add parking slots and monitor the status.
+
+Please refer to the individual code files for more specific details on each component and their functionalities.
+
+
+## Project Dependencies  and Installation
+
+1. Clone the repository: `git clone https://github.com/varunbiluri/Slot-Finder-.git`
+2. Install the required dependencies: `pip install -r requirements.txt`
+
+
+To run the Slot-Finder project, ensure that you have the following dependencies installed:
+
+- Flask==1.1.4
+- opencv-python==4.5.3.56
+- numpy==1.21.0
+- csv
+- pickle
+- itertools
+- count
+
 ## Demo
 
 ## Contributing
