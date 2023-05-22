@@ -21,8 +21,15 @@ The Slot-Finder project is aimed at automating the process of monitoring and man
 - `slot_detector.py`: Implementation of the slot detection algorithm using computer vision techniques
 - `slot_finder.py`: Interactive tool for manually defining the parking slot layout
 
-##Team Details 
-- 
+## Team Members
+
+1. Varun Reddy B - Team Leader
+2. Sai Kumar G
+3. Panvi Krishan J
+4. Azeez Basha S
+5. Radha Krishan M
+6. Viswa Teja Reddy M
+7. Kiran Kumar Reddy
 
 ## Installation
 
@@ -42,7 +49,8 @@ The Slot-Finder project is aimed at automating the process of monitoring and man
 - Report any issues or bugs you encounter
 - Suggest new features or improvements
 - Fork the repository and submit a pull request
-- 
+
+
 ## Acknowledgements
 
 We would like to express our gratitude to RGMCET and BYTS INDIA for organizing the hackathon and providing the opportunity to work on this project.
