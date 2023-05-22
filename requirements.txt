@@ -1,0 +1,7 @@
+Flask==1.1.4
+opencv-python==4.5.3.56
+numpy==1.21.0
+csv
+pickle
+itertools
+count
