@@ -26,7 +26,7 @@ The Slot-Finder project is aimed at automating the process of monitoring and man
 
 ## Installation
 
-1. Clone the repository: `git clone [(https://github.com/varunbiluri/Slot-Finder-.git)]`
+1. Clone the repository: `git clone https://github.com/varunbiluri/Slot-Finder-.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
@@ -49,6 +49,6 @@ We would like to express our gratitude to RGMCET and BITS INDIA for organizing t
 
 ## Contact
 
-For any inquiries or feedback, please contact [(mailto:varunreddy.billuri@gmail.com) or (malito:skg.13.edu@gmail.com)].
+For any inquiries or feedback, please contact mailto:varunreddy.billuri@gmail.com or malito:skg.13.edu@gmail.com.
 
 Enjoy using Slot-Finder!
