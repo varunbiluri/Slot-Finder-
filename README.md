@@ -1,6 +1,6 @@
 # Slot-Finder
 
-This project was developed during a hackathon at RGMCET by BITS INDIA within a 24-hour timeframe.
+This project was developed during a hackathon at RGMCET by BYTS INDIA within a 24-hour timeframe.
 
 ## Project Description
 
@@ -45,7 +45,7 @@ The Slot-Finder project is aimed at automating the process of monitoring and man
 - 
 ## Acknowledgements
 
-We would like to express our gratitude to RGMCET and BITS INDIA for organizing the hackathon and providing the opportunity to work on this project.
+We would like to express our gratitude to RGMCET and BYTS INDIA for organizing the hackathon and providing the opportunity to work on this project.
 
 ## Contact
 
